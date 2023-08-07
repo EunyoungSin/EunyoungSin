@@ -13,9 +13,9 @@
 
 <h3 align="center"><b>🏆Project (2023-04-10 ~ 2023-08-03)</b></h3>
 <p align="center">
- <a href="https://github.com/EunyoungSin/vue_todolist">Vue.js + laravel REST API로 만든 풀스택 TO DO LIST</a><br>
+ <a href="https://github.com/EunyoungSin/vue_todolist">Vue.js + Laravel REST API로 만든 풀스택 TO DO LIST</a><br>
  <a href="https://github.com/EunyoungSin/PHPFULLSTACK/tree/main/vue/vuestagram">Vue.js로 만든 인스타그램</a><br>
- <a href="https://github.com/EunyoungSin/laravel_board">laravel로 만든 게시판</a><br>
+ <a href="https://github.com/EunyoungSin/laravel_board">Laravel로 만든 게시판</a><br>
  <a href="https://github.com/EunyoungSin/mini_shop">PHP MVC모델로 만든 쇼핑몰</a><br>
  <a href="https://github.com/EunyoungSin/mini_board">PHP로 만든 게시판</a><br>
 </p>
