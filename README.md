@@ -22,7 +22,7 @@
 
 <h3 align="center"><b>🛠Team Project (2023-04-18 ~ 2023-08-03)🛠</b></h3>
 <p align="center">
- <a href="https://github.com/PHP-506-Money/3rd_project">3차 프로젝트 자산관리 프로그램</a><br>
- <a href="https://github.com/PHP-506-Money/2nd_project_v2">2차 프로젝트 자산관리 프로그램</a><br>
- <a href="https://github.com/PHP-506-1/PHP_1STPJ">1차 프로젝트 TO DO LIST</a><br>
+ <a href="https://github.com/PHP-506-Money/3rd_project">3차 프로젝트 / 자산관리 서비스</a><br>
+ <a href="https://github.com/PHP-506-Money/2nd_project_v2">2차 프로젝트 / 자산관리 서비스</a><br>
+ <a href="https://github.com/PHP-506-1/PHP_1STPJ">1차 프로젝트 / TO DO LIST</a><br>
 </p>
