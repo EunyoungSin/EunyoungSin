@@ -26,3 +26,6 @@
  <a href="https://github.com/PHP-506-Money/2nd_project_v2">2차 프로젝트 / 자산관리 서비스</a><br>
  <a href="https://github.com/PHP-506-1/PHP_1STPJ">1차 프로젝트 / TO DO LIST</a><br>
 </p>
+
+<h3 align="center"><b>작업물 정리 PPT</b></h3>
+<a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">링크</a>
