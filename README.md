@@ -28,4 +28,6 @@
 </p>
 
 <h3 align="center"><b>작업물 정리 PPT</b></h3>
-<a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">링크</a>
+<p align="center">
+ <a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">링크</a>
+</p>
