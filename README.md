@@ -9,7 +9,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?&logo=Bootstrap&logoColor=white"/>
+<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
  </p>
 
 <h3 align="center"><b>🏆Project (2023-04-10 ~ 2023-08-03)</b></h3>
