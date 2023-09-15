@@ -32,3 +32,6 @@
 <p align="center">
  <a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">링크</a>
 </p>
+
+<h3 align="center">✉ Contact Me ✉</h3>
+<div align="center"><a href="mailto:ey5742@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" /></a></div>
