@@ -12,10 +12,10 @@
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-<img alt="NOTION" src ="https://img.shields.io/badge/Notion-000000?&logo=NOTION&logoColor=white"/>
-<img alt="SLACK" src ="https://img.shields.io/badge/Slack-4A154B?&logo=SLACK&logoColor=white"/>
-<img alt="JIRA" src ="https://img.shields.io/badge/Jira-0052CC?&logo=JIRA&logoColor=white"/>
-<img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white"/>
+<img alt="NOTION" src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=NOTION&logoColor=white"/>
+<img alt="SLACK" src ="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=SLACK&logoColor=white"/>
+<img alt="JIRA" src ="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JIRA&logoColor=white"/>
+<img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
  </p>
 
 <h3 align="center"><b>🏆Project (2023-04-10 ~ 2023-08-03)</b></h3>
