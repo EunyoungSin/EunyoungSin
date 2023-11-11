@@ -3,6 +3,7 @@
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
 <img alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img alt="SPRING" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
