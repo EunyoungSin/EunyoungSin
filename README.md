@@ -1,15 +1,20 @@
 <h3 align="center"><b>🛠Dev Language & Tool🛠</b></h3>
 <p align="center">
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
 <img alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img alt="SPRING" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
+<img alt="DB2" src="https://img.shields.io/badge/DB2-F7DF1E?style=flat-square&logo=DB2&logoColor=white">
+<img alt="PostegreSQL" src="https://img.shields.io/badge/PostegreSQL-0052CC?style=flat-square&logo=PostegreSQL&logoColor=white">
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=black">
+<img alt="React" src="https://img.shields.io/badge/React-F05032?style=flat-square&logo=React&logoColor=black">
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-1572B6?style=flat-square&logo=Angular&logoColor=white">
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
@@ -17,7 +22,12 @@
 <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
  </p>
 
-<h3 align="center"><b>🏆Project (2023-04-10 ~ 2023-08-03)</b></h3>
+<h3 align="center"><b>🏆New Project (2026-07-20 ~)</b></h3>
+<p align="center">
+ <a href="https://github.com/EunyoungSin/tarot_simple">바이브코딩으로 만든 과거-현재-미래를 분석해주는 타로카드 리딩</a><br>
+</p>
+
+<h3 align="center"><b>🏆Old Project (2023-04-10 ~ 2023-08-03)</b></h3>
 <p align="center">
  <a href="https://github.com/EunyoungSin/vue_todolist">Vue.js + Laravel REST API로 만든 풀스택 TO DO LIST</a><br>
  <a href="https://github.com/EunyoungSin/PHPFULLSTACK/tree/main/vue/vuestagram">Vue.js로 만든 인스타그램</a><br>
