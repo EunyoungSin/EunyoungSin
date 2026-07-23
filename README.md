@@ -25,7 +25,7 @@
 <h3 align="center"><b>🏆New Project (2026-07-20 ~)</b></h3>
 <p align="center">
   <a href="https://github.com/EunyoungSin/tarot_qna">바이브코딩으로 만든 AI 타로 질문 리딩</a><br>
- <a href="https://github.com/EunyoungSin/tarot_simple">바이브코딩으로 만든 과거-현재-미래를 분석해주는 타로카드 리딩</a><br>
+ <a href="https://github.com/EunyoungSin/tarot_simple">바이브코딩으로 만든 과거-현재-미래를 분석해주는 AI 타로카드 리딩</a><br>
 </p>
 
 <h3 align="center"><b>🏆Old Project (2023-04-10 ~ 2023-08-03)</b></h3>
