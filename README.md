@@ -47,7 +47,7 @@
 
 <h3 align="center"><b>📜작업내역 PPT</b></h3>
 <p align="center">
- <a href="https://drive.google.com/file/d/1lUDRtOrI_whEjlAwuHCwRjuJxKUaXrHR/view?usp=drive_link">🔍회사 작업물 포트폴리오 링크</a><br>
+ <a href="https://drive.google.com/file/d/16ljvYV8cy1mpYkdRVx2Gu8JzlEZt-xjV/view?usp=drive_link">🔍회사+개인 작업물 포트폴리오 링크</a><br>
  <a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">학원 작업물 포트폴리오 링크</a>
 </p>
 
