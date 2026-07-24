@@ -24,6 +24,7 @@
 
 <h3 align="center"><b>🏆New Project (2026-07-20 ~)</b></h3>
 <p align="center">
+ <a href="https://github.com/EunyoungSin/virus_game">AI 기반 감염자 판별 게임</a><br>
  <a href="https://github.com/EunyoungSin/booklog">독서 기록 AI 플랫폼</a><br>
  <a href="https://github.com/EunyoungSin/tarot_qna">타로 질문 AI 리딩</a><br>
  <a href="https://github.com/EunyoungSin/tarot_simple">과거-현재-미래를 분석해주는 AI 타로카드 리딩</a><br>
