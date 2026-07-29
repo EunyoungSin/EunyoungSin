@@ -24,7 +24,7 @@
 
 <h3 align="center"><b>🏆New Project (2026-07-20 ~)</b></h3>
 <p align="center">
- <a href="https://github.com/EunyoungSin/daily_news">실시간 멀티API 대시보드 + AI 브리핑 + 로또</a><br>
+ <a href="https://github.com/EunyoungSin/daily_news">실시간 멀티 API·AI 브리핑 통합 대시보드</a><br>
  <a href="https://github.com/EunyoungSin/virus_game">AI 기반 감염자 판별 게임</a><br>
  <a href="https://github.com/EunyoungSin/booklog">독서 기록 AI 플랫폼</a><br>
  <a href="https://github.com/EunyoungSin/tarot_qna">타로 질문 AI 리딩</a><br>
