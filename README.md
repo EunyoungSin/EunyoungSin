@@ -40,7 +40,7 @@
  <a href="https://github.com/EunyoungSin/mini_board">PHP로 만든 게시판</a><br>
 </p>
 
-<h3 align="center"><b>🏆Team Project (2023-04-18 ~ 2023-08-03)</b></h3>
+<h3 align="center"><b>🏆Old Team Project (2023-04-18 ~ 2023-08-03)</b></h3>
 <p align="center">
  <a href="https://github.com/PHP-506-Money/3rd_project">3차 프로젝트 / 자산관리 서비스</a><br>
  <a href="https://github.com/PHP-506-Money/2nd_project_v2">2차 프로젝트 / 자산관리 서비스</a><br>
