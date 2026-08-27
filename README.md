@@ -49,7 +49,7 @@
 
 <h3 align="center"><b>📜작업내역 PPT</b></h3>
 <p align="center">
- <a href="https://drive.google.com/file/d/14rGuCFMB8TlA2glVlbaJfO3Rtohn7TLz/view?usp=sharing">🔍회사+개인 작업물 포트폴리오 링크</a><br>
+ <a href="https://docs.google.com/presentation/d/1UtW_nCvLXBl_CXz5jPvHIwnjRBMFckKIkGJKKVUaj1A/edit?usp=sharing">🔍회사+개인 작업물 포트폴리오 링크</a><br>
  <a href="https://docs.google.com/presentation/d/1NTKDMqfAv2gplG7mYCZ82fXLm1c98gGhsbcuWcthB64/edit?usp=sharing">학원 작업물 포트폴리오 링크</a>
 </p>
 
